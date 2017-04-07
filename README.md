@@ -1,2 +1,2 @@
-# CRLF-Injection-Payloads
+# CRLF Injection Payloads
 Payloads for CRLF Injection
