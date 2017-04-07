@@ -1,2 +1,2 @@
 # CRLF Injection Payloads
-Payloads for CRLF Injection
+Payloads from BB reports for CRLF Injection.
