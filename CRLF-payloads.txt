@@ -40,3 +40,5 @@ crlf%23%0D%0AHeader-Test:BLATRUC
 crlf%E5%98%8A%E5%98%8DHeader-Test:BLATRUC
 crlf%E5%98%8A%E5%98%8D%0D%0AHeader-Test:BLATRUC
 crlf%3F%0D%0AHeader-Test:BLATRUC
+%0D%0A%09Header-Test:BLATRUC
+crlf%0D%0A%09Header-Test:BLATRUC
