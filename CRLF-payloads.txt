@@ -16,6 +16,7 @@ crlf%3F%0AHeader-Test:BLATRUC
 %0D%20Header-Test:BLATRUC
 %20%0DHeader-Test:BLATRUC
 %23%0DHeader-Test:BLATRUC
+%23%0AHeader-Test:BLATRUC
 %E5%98%8A%E5%98%8DHeader-Test:BLATRUC
 %E5%98%8A%E5%98%8D%0DHeader-Test:BLATRUC
 %3F%0DHeader-Test:BLATRUC
@@ -23,6 +24,7 @@ crlf%0DHeader-Test:BLATRUC
 crlf%0D%20Header-Test:BLATRUC
 crlf%20%0DHeader-Test:BLATRUC
 crlf%23%0DHeader-Test:BLATRUC
+crlf%23%0AHeader-Test:BLATRUC
 crlf%E5%98%8A%E5%98%8DHeader-Test:BLATRUC
 crlf%E5%98%8A%E5%98%8D%0DHeader-Test:BLATRUC
 crlf%3F%0DHeader-Test:BLATRUC
@@ -30,6 +32,8 @@ crlf%3F%0DHeader-Test:BLATRUC
 %0D%0A%20Header-Test:BLATRUC
 %20%0D%0AHeader-Test:BLATRUC
 %23%0D%0AHeader-Test:BLATRUC
+\r\nHeader-Test:BLATRUC
+%5cr%5cnHeader-Test:BLATRUC
 %E5%98%8A%E5%98%8DHeader-Test:BLATRUC
 %E5%98%8A%E5%98%8D%0D%0AHeader-Test:BLATRUC
 %3F%0D%0AHeader-Test:BLATRUC
@@ -37,6 +41,8 @@ crlf%0D%0AHeader-Test:BLATRUC
 crlf%0D%0A%20Header-Test:BLATRUC
 crlf%20%0D%0AHeader-Test:BLATRUC
 crlf%23%0D%0AHeader-Test:BLATRUC
+crlf\r\nHeader-Test:BLATRUC
+crlf%5cr%5cnHeader-Test:BLATRUC
 crlf%E5%98%8A%E5%98%8DHeader-Test:BLATRUC
 crlf%E5%98%8A%E5%98%8D%0D%0AHeader-Test:BLATRUC
 crlf%3F%0D%0AHeader-Test:BLATRUC
