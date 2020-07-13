@@ -33,6 +33,8 @@ crlf%3F%0DHeader-Test:BLATRUC
 %20%0D%0AHeader-Test:BLATRUC
 %23%0D%0AHeader-Test:BLATRUC
 \r\nHeader-Test:BLATRUC
+ \r\n Header-Test:BLATRUC
+\r\n Header-Test:BLATRUC
 %5cr%5cnHeader-Test:BLATRUC
 %E5%98%8A%E5%98%8DHeader-Test:BLATRUC
 %E5%98%8A%E5%98%8D%0D%0AHeader-Test:BLATRUC
